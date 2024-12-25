@@ -1,5 +1,7 @@
 # Adidas Sales Report: USA (2020-2021) 📈👟 
 
+![Dashboard perview](https://github.com/Mujahid-max/power_BI_Adidas_report/blob/main/Screenshot%202024-12-25%20163940.png?raw=true)
+
 ![Adidas Logo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c0NzF0cjRmOWl0ZHI3ODBrOGdlOWJiMmM5aHg5Nzg5cHd3Y2NjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slrATiQg5O1dm/giphy.webp)
 
 
