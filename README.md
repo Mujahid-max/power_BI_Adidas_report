@@ -8,7 +8,11 @@
 ## Overview 🌟 
 This project analyzes Adidas' sales performance in the United States from 2020 to 2021. The report provides insights into sales trends, regional performance, product category contributions, and key metrics such as revenue growth, seasonal variations, and customer preferences.
 
+
+
 ![Adidas Logo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhkYTliczQ1cmlhYzAzNGFyNHAwcjlzZGtwdmM0Nm9pdmZkNDljZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGFOU6WSXrSzm/giphy.webp)
+
+
 
 ## Objectives 🎯
 - 🔍 Identify sales trends and patterns over the two-year period.
